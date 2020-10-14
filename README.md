@@ -10,7 +10,9 @@ This summary shows technical tables and figures needed for the technical report 
 ### Overall Observations and Inferences
 * * Out of all the drug regimens, Capomulin and Ramicane had the lowest mean tumor volume (mm3) of 40.68 & 40.22, also the lowest variance (24.95, 23.49) and standard error (0.33, 0.32).  While the highest mean tumor volume, variance and standard error were from mice tested with Ketapril and Naftisol (see Table 1).
 
-* Out of the four most promising drug regimens: Capomulin, Ramicane, Infubinol, and Ceftamin, Capomulin and Ramicane had comparable low end tumor volumes and both had significantly lower IQRs then Infubinol and Ceftamin (see Figures 3 and 4).
+* Out of the four most promising drug regimens: Capomulin, Ramicane, Infubinol, and Ceftamin, Capomulin and Ramicane had comparable low end tumor volumes and both had significantly lower IQRs then Infubinol and Ceftamin, only one outlier appeared in Infubinol data (see Figures 3 and 4).
+
+* * Overall, the drug regimen Capomulin was effective when treating SCC tumor growth in mice over 45 days in comparison to other drug regimens (see Figure 5).
 
 * When mouse weight and average tumor volume were plotted from the mice treated with Capomulin there was a high positive correlation between increase in weight and increase in end tumor volume (mm3), with the correlation coefficient being 0.84 (see Figure 6).
 
