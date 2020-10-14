@@ -20,23 +20,23 @@ This summary shows technical tables and figures needed for the technical report 
 ![Figure 1: Total Number of Mice per Regimen](figures/barplottotalmice.png)
 
 * Figure 2 shows the total percentage of male versus female mice
-![Figure 2: Total Percentage of Male vs Female Mice](sexofmice.png)
+![Figure 2: Total Percentage of Male vs Female Mice](figures/sexofmice.png)
 
 * Figure 3 shows the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin and the quartiles and IQR, to quantitatively determine if there are any potential outliers across all four treatment regimens.
 
-![Figure 3: Quartiles and IQR of Most Promising Treatments](iqr_four_regimens.png)
+![Figure 3: Quartiles and IQR of Most Promising Treatments](figures/iqr_four_regimens.png)
 
 * Figure 4 shows a box and whisker plot of the final tumor volume for all four treatment regimens and highlights any potential outliers in the plot with a star.
 
-![Figure 4: Potential Outliers](lasttumorvol.png)
+![Figure 4: Potential Outliers](figures/lasttumorvol.png)
 
 * Figure 5 shows the tumor volume versus time point for one mouse that was treated with Capomulin.
 
-![Figure 5: One Mouse Tumor Volume vs Time Point for Capomulin](onemousetumorvol_capomulin.png)
+![Figure 5: One Mouse Tumor Volume vs Time Point for Capomulin](figures/onemousetumorvol_capomulin.png)
 
 * Figure 6 shows a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.  With the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment and the linear regression model.
 
-![Figure 6: Mouse Weight vs Average Tumor Volume for Capomulin](linregcopomulin.png)
+![Figure 6: Mouse Weight vs Average Tumor Volume for Capomulin](figures/linregcopomulin.png)
 
 
  
