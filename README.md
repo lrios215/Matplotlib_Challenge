@@ -7,9 +7,16 @@ Study Overview: In this study, 249 mice identified with SCC tumor growth were tr
 
 This summary shows technical tables and figures needed for the technical report of the overall study and overall trends.
 
+### Overall Observations and Inferences
+* * Out of all the drug regimens, Capomulin and Ramicane had the lowest mean tumor volume (mm3) of 40.68 & 40.22, also the lowest variance (24.95, 23.49) and standard error (0.33, 0.32).  While the highest mean tumor volume, variance and standard error were from mice tested with Ketapril and Naftisol (see Table 1).
+
+* Out of the four most promising drug regimens: Capomulin, Ramicane, Infubinol, and Ceftamin, Capomulin and Ramicane had comparable low end tumor volumes and both had significantly lower IQRs then Infubinol and Ceftamin (see Figures 3 and 4).
+
+* When mouse weight and average tumor volume were plotted from the mice treated with Capomulin there was a high positive correlation between increase in weight and increase in end tumor volume (mm3), with the correlation coefficient being 0.84 (see Figure 6).
+
 ### Technical Summary
 
-* Data for any mouse ID with duplicate time points was remove any data associated with that mouse ID.  There was one mouse ID removed due to duplicate time points: Mouse ID g989.  Total of 248 mice were used for data analysis.
+* Data for any mouse ID with duplicate time points was remove any data associated with that mouse ID.  There was one mouse ID removed due to duplicate time points: Mouse ID g989.  Total of 248 amice were used for data analysis.
 
 * Table 1: Summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
@@ -37,6 +44,9 @@ This summary shows technical tables and figures needed for the technical report 
 * Figure 6 shows a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.  With the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment and the linear regression model.
 
 ![Figure 6: Mouse Weight vs Average Tumor Volume for Capomulin](figures/linregcopomulin.png)
+
+* The r-squared is: 0.8419363424694718
+* The equation for linear regression is: y=0.95x + 21.55
 
 
  
